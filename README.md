@@ -1,21 +1,23 @@
 ## LANDING PAGE - Inovart
 
-## Introdução
+Este é um projeto criado para a empresa fictícia <strong>Inovart</strong>, desenvolvida durante a minha formação técnica após a elaboração de um plano de marketing para a mesma.
 
-Esse é um projeto criado para empresa ficticia, Inovart. Desenvolvida durante a minha formação técnica após a elaboração um plano de marketing para a mesma.
+&nbsp;
+<img src="https://github.com/alvesmgiovana/landing-page-inovart/assets/146298988/368e5c66-2373-45da-9e23-e62d96621368"> &nbsp;
 
-<img src="https://github.com/alvesmgiovana/landing-page-inovart/assets/146298988/368e5c66-2373-45da-9e23-e62d96621368">
+## Tech
+Na criação da landing page, foram utilizadas as seguintes linguagens:
 
-## Techs
+• HTML: Linguagem de programação de sintaxe simples;
+<br>
+• CSS: Linguagem utilizada para estilizar os elementos descritos no código de marcação;
 
-Ao gerar a landing page, foram exercídas as seguintes linguagens:
-
-* [HTML](https://www.python.org/): Linguagem de programação de sintaxe simples;
-* [CSS](https://www.python.org/): Linguagem utilizada para estilizar os elementos descritos no código de marcação;
-
-Meus agradecimentos ao canal OneBitCode, pois através do tutorial e aqruivos disponibilizados por eles, consegui reproduzir essa página web incrível.
+Meus agradecimentos ao canal OneBitCode, pois, através do tutorial e dos arquivos disponibilizados por eles, consegui reproduzir esta incrível página web.
+&nbsp;
 
 ## Informações adicionais
-
-Saiba mais sobre a marca Inovart, no link abaixo:
+Saiba mais sobre a marca Inovart no link abaixo:
+<br>
 https://www.behance.net/gallery/182230995/Identidade-Visual-INOVART-(Plano-de-negocios)
+
+## Muito obrigada pela atenção!
