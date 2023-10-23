@@ -4,7 +4,7 @@ LANDING PAGE - Inovart
 
 Esse é um projeto criado para empresa ficticia, Inovart. Desenvolvida durante a minha formação técnica após a elaboração um plano de marketing para a mesma.
 
-<img src="" >
+<img src="https://github.com/alvesmgiovana/landing-page-inovart/assets/146298988/368e5c66-2373-45da-9e23-e62d96621368">
 
 ## Techs
 
