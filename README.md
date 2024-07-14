@@ -18,8 +18,6 @@ Este é um projeto simples criado para a empresa fictícia <strong>Inovart</stro
 <h2>
 📄 Tecnologias Utilizadas
 </h2>
-Na criação da landing page, foram utilizadas as seguintes linguagens:
-&nbsp;
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -28,14 +26,13 @@ Na criação da landing page, foram utilizadas as seguintes linguagens:
 🌟 Informações adicionais
 </h2>
 
-Saiba mais sobre a marca Inovart no link abaixo:
-<br>
-[Identidade visual](https://www.behance.net/gallery/182230995/Identidade-Visual-INOVART-(Plano-de-negocios))
+Saiba mais sobre a marca Inovart no através desse link: [Identidade visual](https://www.behance.net/gallery/182230995/Identidade-Visual-INOVART-(Plano-de-negocios)).
 
 <h2>
 💌 Créditos
 </h2>
 Meus agradecimentos ao canal OneBitCode, pois, através do tutorial e dos arquivos disponibilizados por eles, consegui reproduzir esta incrível página web.
-&nbsp;
+
+<br>
 
 ### Muito obrigada pela sua atenção ♥
